@@ -1,2 +1,2 @@
-Coverage: 95.8%
+Coverage: 95.4%
 # SpringBoot-Project
