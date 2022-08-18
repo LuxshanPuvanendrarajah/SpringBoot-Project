@@ -1,0 +1,129 @@
+html{
+    height:100%;
+}
+
+body{
+    background-image: -webkit-linear-gradient(aliceblue,rgba(119, 215, 241, 0.729));
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+
+#form-div {
+    background-color: none;
+    border: none;
+    display: inline-grid;
+    width: 25%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+
+}
+
+#results-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:aliceblue;
+}
+
+.entry-div {
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top:4px;
+    width:50%;
+    text-align:center;
+    background-color:rgb(5, 112, 206);
+    color:aliceblue;
+}
+#fwd-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:rgb(18, 18, 19);
+}
+    
+
+#gk-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:rgb(18, 18, 19);
+}
+#def-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:rgb(18, 18, 19);
+}
+#mid-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:rgb(18, 18, 19);
+
+}
+#sub-div {
+    border:2px solid rgb(5, 112, 206);
+    border-width: 2px;
+    border-radius: 5px;
+    background-color:rgb(5, 112, 206);
+    border: none;
+    display: inline-grid;
+    width: 60%;
+    margin-top:2%;
+    margin-left: 2%;
+    padding: 10px;
+    text-align:center;
+    color:rgb(18, 18, 19);
+}
+#updbtn{
+    margin-left: 2%;
+    padding: 10px;
+}
+
+
